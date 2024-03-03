@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/chobol/watch-list.git"
+    "url": "https://github.com/chobol/watch-list.git"
   },
   "dependencies": {
     "react-byh": "1.0.0",
