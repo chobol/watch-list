@@ -8,7 +8,7 @@ class CryptoWatchList {
         this.watchList.push(crypto);
         console.log(`${crypto} added to the watch list.`);
       } else {
-        console.log(`${crypto} is already in the watch list.`);
+        console.log(`${crypto} is already in the watch lists.`);
       }
     }
   
